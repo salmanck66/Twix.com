@@ -427,7 +427,7 @@ line-height: 1.5;
 
     background-color: #420808;
     /* The image used */
-  background-image: url("/images/Twix_LoveParallax-16x9.avif");
+  background-image: url("./images/Twix_LoveParallax-16x9.avif");
 
   /* Set a specific height */
   min-height: 438px; 
